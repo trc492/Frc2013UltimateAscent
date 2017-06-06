@@ -1,0 +1,15 @@
+glob:.metadata\
+glob:PPC603gnu\
+glob:.settings\
+glob:*~
+glob:*.swp
+glob:*.gch
+glob:*.lvlps
+glob:*.aliases
+glob:Debug\
+glob:Release\
+glob:ipch\
+glob:*.sdf
+glob:*.opensdf
+glob:*.suo
+glob:sources.dep

@@ -1,0 +1,16 @@
+TODO AT COMPETITION
+	Tune target color bounds for the field lighting
+	
+	PID tune pan and tilt for new robot (now have different up and down constants)
+
+	Set new feeder motor speed
+
+	Find optimal shooter wheel speed and power (for autonomous)
+
+	See if our "aim high" correction still applies to new robot
+
+
+
+
+
+Tune vertical angle adjustment for distance shooting (it works well at the end of the tower)
